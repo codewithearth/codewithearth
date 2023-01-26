@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codewithearth
-- 👀 I’m interested in Artificial Intelligence and Coding
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Technical world
+- 🌱 I’m currently learning about programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
